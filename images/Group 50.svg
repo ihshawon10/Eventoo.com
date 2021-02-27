@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2604.434" height="1971.607" viewBox="0 0 2604.434 1971.607">
+  <g id="Group_50" data-name="Group 50" transform="translate(-809 -202.354)">
+    <g id="Group_10" data-name="Group 10" transform="translate(1938.977 202.354)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="109.141" height="109.141" transform="translate(0 1624.614)" fill="#f26421"/>
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(297.165 1517.538) rotate(30)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="68.252" height="64.46" stroke="none"/>
+        <rect x="1.5" y="1.5" width="65.252" height="61.46" fill="none"/>
+      </g>
+      <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(1474.457 862.052) rotate(90)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="68.252" height="64.46" stroke="none"/>
+        <rect x="1.5" y="1.5" width="65.252" height="61.46" fill="none"/>
+      </g>
+      <path id="Polygon_1" data-name="Polygon 1" d="M47.4,0l47.4,83.419H0Z" transform="translate(229.704 1912.621) rotate(-45)" fill="#fed700"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M18.676,0,37.351,31.72H0Z" transform="translate(1282.156 543.452) rotate(-45)" fill="#fed700"/>
+      <path id="Polygon_3" data-name="Polygon 3" d="M18.676,0,37.351,31.72H0Z" transform="translate(1201.737 0)" fill="#fed700"/>
+    </g>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="60.132" height="62.637" transform="translate(809 1464.235)" fill="#f36523"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="47.604" height="50.11" transform="translate(1538.994 363.509) rotate(-30)" fill="#f36523"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1157.263 860.412)" fill="none" stroke="#fff" stroke-width="5">
+      <circle cx="27.56" cy="27.56" r="27.56" stroke="none"/>
+      <circle cx="27.56" cy="27.56" r="25.06" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(2066.757 406.918)" fill="none" stroke="#fff" stroke-width="5">
+      <circle cx="27.56" cy="27.56" r="27.56" stroke="none"/>
+      <circle cx="27.56" cy="27.56" r="25.06" fill="none"/>
+    </g>
+  </g>
+</svg>
